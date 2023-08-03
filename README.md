@@ -15,7 +15,3 @@ Hi I'm Ramazan <br>I'm Computer Engineering Student 3/4<br>🔭 My interests are
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ramazankrklnc&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=ramazankrklnc&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
