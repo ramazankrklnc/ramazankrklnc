@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi I'm Ramazan <br>I'm Computer Engineering Student 3/4<br>🔭 My interests are in Data Science, Machine and Deep Learning
+# 💫 Hi I'm Ramazan:
+<br>I'm Computer Engineering Student 3/4<br>🔭 My interests are in Data Science, Machine and Deep Learning
 
 
 ## 🌐 Socials:
