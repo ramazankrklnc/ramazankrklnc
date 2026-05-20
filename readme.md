@@ -1,5 +1,5 @@
 # 💫 Hi I'm Ramazan:
-<br>I'm Computer Engineer<br>🔭 My interests are in Data Science, Machine and Deep Learning
+<br>I'm Computer Engineer<br>🔭 My interests are in Data Science, Machine and Deep Learning, NLP, LLM, AI Agents
 
 
 ## 🌐 Socials:
